@@ -610,3 +610,40 @@ LogInit: Object subsystem initialized
 [2019.10.20-22.05.15:229][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
 [2019.10.20-22.05.15:229][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000041 seconds (updated 0 objects)
 [2019.10.20-22.05.15:316][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.20-23.03.04:741][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-23.03.50:773][492]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.20-23.04.05:319][492]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.10.20-23.04.54:562][789]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Skills/skillBase.skillBase
+[2019.10.20-23.04.54:925][789]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2019.10.20-23.04.55:613][789]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:1).
+[2019.10.20-23.04.58:383][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Skills/skillBase" FILE="../../../../../../Users/B0bTh3BuiIder/Documents/GitHub/ghg/GHG/Content/Skills/skillBase.uasset" SILENT=true
+[2019.10.20-23.04.58:393][115]LogSavePackage: Moving '../../../../../../Users/B0bTh3BuiIder/Documents/GitHub/ghg/GHG/Saved/skillBase9248ABCB41F029399CEB26B663CE73AF.tmp' to '../../../../../../Users/B0bTh3BuiIder/Documents/GitHub/ghg/GHG/Content/Skills/skillBase.uasset'
+[2019.10.20-23.05.58:872][  2]LogSlate: Took 0.004461 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.10.20-23.07.06:510][105]BlueprintLog: New page: Compile skillBase
+[2019.10.20-23.07.07:338][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Skills/skillBase" FILE="../../../../../../Users/B0bTh3BuiIder/Documents/GitHub/ghg/GHG/Content/Skills/skillBase.uasset" SILENT=true
+[2019.10.20-23.07.07:355][187]LogSavePackage: Moving '../../../../../../Users/B0bTh3BuiIder/Documents/GitHub/ghg/GHG/Saved/skillBaseC3FF53444D483BEEB73DD280BED11027.tmp' to '../../../../../../Users/B0bTh3BuiIder/Documents/GitHub/ghg/GHG/Content/Skills/skillBase.uasset'
+[2019.10.20-23.14.50:057][184]LogSlate: Took 0.006337 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.20-23.14.50:446][229]BlueprintLog: New page: Compile skillBase
+[2019.10.20-23.14.51:058][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Skills/skillBase" FILE="../../../../../../Users/B0bTh3BuiIder/Documents/GitHub/ghg/GHG/Content/Skills/skillBase.uasset" SILENT=true
+[2019.10.20-23.14.51:077][284]LogSavePackage: Moving '../../../../../../Users/B0bTh3BuiIder/Documents/GitHub/ghg/GHG/Saved/skillBaseD4335F704FF6B4046218FC80D5C5E9C1.tmp' to '../../../../../../Users/B0bTh3BuiIder/Documents/GitHub/ghg/GHG/Content/Skills/skillBase.uasset'
+[2019.10.20-23.19.35:574][329]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.024
+[2019.10.20-23.19.35:576][329]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Skills/skillBase] ([1] browsable assets)...
+[2019.10.20-23.19.35:576][329]OBJ SavePackage: Finished generating thumbnails for package [/Game/Skills/skillBase]
+[2019.10.20-23.19.35:576][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Skills/skillBase" FILE="../../../../../../Users/B0bTh3BuiIder/Documents/GitHub/ghg/GHG/Saved/Autosaves/Game/Skills/skillBase_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.10.20-23.19.35:588][329]LogSavePackage: Moving '../../../../../../Users/B0bTh3BuiIder/Documents/GitHub/ghg/GHG/Saved/skillBase_Auto13FD19F41433625E0B9AFCDBE78B00FE5.tmp' to '../../../../../../Users/B0bTh3BuiIder/Documents/GitHub/ghg/GHG/Saved/Autosaves/Game/Skills/skillBase_Auto1.uasset'
+[2019.10.20-23.19.35:589][329]LogFileHelpers: Auto-saving content packages took 0.015
+[2019.10.20-23.20.13:637][838]BlueprintLog: New page: Compile skillBase
+[2019.10.20-23.20.14:265][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Skills/skillBase" FILE="../../../../../../Users/B0bTh3BuiIder/Documents/GitHub/ghg/GHG/Content/Skills/skillBase.uasset" SILENT=true
+[2019.10.20-23.20.14:280][891]LogSavePackage: Moving '../../../../../../Users/B0bTh3BuiIder/Documents/GitHub/ghg/GHG/Saved/skillBase13D7C2AB480B8A85CE063FB18BF1D8E2.tmp' to '../../../../../../Users/B0bTh3BuiIder/Documents/GitHub/ghg/GHG/Content/Skills/skillBase.uasset'
+[2019.10.20-23.23.26:480][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Skills/skillBase" FILE="../../../../../../Users/B0bTh3BuiIder/Documents/GitHub/ghg/GHG/Content/Skills/skillBase.uasset" SILENT=true
+[2019.10.20-23.23.26:498][ 24]LogSavePackage: Moving '../../../../../../Users/B0bTh3BuiIder/Documents/GitHub/ghg/GHG/Saved/skillBaseE2397F524539CD1BC0A8D6908D6B136B.tmp' to '../../../../../../Users/B0bTh3BuiIder/Documents/GitHub/ghg/GHG/Content/Skills/skillBase.uasset'
+[2019.10.20-23.23.57:213][881]LogEditorTransaction: Undo Add Variable
+[2019.10.20-23.23.59:106][ 87]BlueprintLog: New page: Compile skillBase
+[2019.10.20-23.23.59:609][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Skills/skillBase" FILE="../../../../../../Users/B0bTh3BuiIder/Documents/GitHub/ghg/GHG/Content/Skills/skillBase.uasset" SILENT=true
+[2019.10.20-23.23.59:624][128]LogSavePackage: Moving '../../../../../../Users/B0bTh3BuiIder/Documents/GitHub/ghg/GHG/Saved/skillBase58055A5D4ADA244EA053D7ACA0FB28B5.tmp' to '../../../../../../Users/B0bTh3BuiIder/Documents/GitHub/ghg/GHG/Content/Skills/skillBase.uasset'
+[2019.10.20-23.45.10:100][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Skills/skillBase" FILE="../../../../../../Users/B0bTh3BuiIder/Documents/GitHub/ghg/GHG/Content/Skills/skillBase.uasset" SILENT=true
+[2019.10.20-23.45.10:122][774]LogSavePackage: Moving '../../../../../../Users/B0bTh3BuiIder/Documents/GitHub/ghg/GHG/Saved/skillBaseCB7FDAAC470D6C856CA3D3BDF088A50F.tmp' to '../../../../../../Users/B0bTh3BuiIder/Documents/GitHub/ghg/GHG/Content/Skills/skillBase.uasset'
+[2019.10.20-23.45.15:759][214]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.10.20-23.45.23:876][152]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Skills/testSkill.testSkill
+[2019.10.20-23.45.24:873][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Skills/testSkill" FILE="../../../../../../Users/B0bTh3BuiIder/Documents/GitHub/ghg/GHG/Content/Skills/testSkill.uasset" SILENT=true
+[2019.10.20-23.45.24:889][208]LogSavePackage: Moving '../../../../../../Users/B0bTh3BuiIder/Documents/GitHub/ghg/GHG/Saved/testSkill5A05D4DD42F4BA80F79922BFA89ADF71.tmp' to '../../../../../../Users/B0bTh3BuiIder/Documents/GitHub/ghg/GHG/Content/Skills/testSkill.uasset'
