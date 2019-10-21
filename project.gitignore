@@ -71,3 +71,8 @@ Content/*
 
 *.VC.opendb
 *.VC.db
+
+*GHG.log
+*EditorPerProjectUserSettings.ini
+*AutoScreenshot.png
+*CachedAssetRegistry.bin
